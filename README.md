@@ -1,13 +1,13 @@
-# 👋 Hey there, I'm Sree Dharani!
+👋 Hey there, I'm Sree Dharani!
 
-I'm a graduate student at Northeastern University, exploring everything from machine learning and deep learning pipelines to end-to-end data engineering and real-world AI applications. I love building intelligent systems that connect data, models, and meaningful outcomes — whether it's a predictive model, a RAG pipeline, a streaming data workflow, or a dashboard that tells powerful stories.
+I’m a Data Analytics Engineering graduate from Northeastern University, exploring everything from machine learning and deep learning pipelines to end-to-end data engineering and real-world AI applications. I enjoy building intelligent systems that connect data, models, and meaningful outcomes — whether it’s a predictive model, a RAG pipeline, a streaming data workflow, or a dashboard that tells powerful stories.
 
 ---
 
 ## 💡 A Bit About Me
 
 - 🎓 Master’s in Data Analytics Engineering, Northeastern University (Boston, MA) 
-- 🤖 Experienced in building AI, ML, and LLM-powered workflows (RAG, deep learning, predictive models)  
+- 🤖 “Hands-on experience building AI, ML, and LLM-powered workflows (RAG, deep learning, predictive models)  
 - ⚙️ Skilled in designing scalable ETL/ELT pipelines, real-time streaming systems, and cloud-based data platforms  
 - 📊 Strong background in statistical modeling, analytics, and data visualization (Power BI, Tableau)  
 - 🧠 Love solving problems at the intersection of **AI + Data Engineering + Analytics**  

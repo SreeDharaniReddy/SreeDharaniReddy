@@ -21,9 +21,9 @@ I’m a Data Analytics Engineering graduate from Northeastern University, explor
 |--------|-------------|
 | [Insurance Claim Automation (LLM + RAG)](https://github.com/SreeDharaniReddy/ClaimTrackr) | Built an end-to-end LLM-driven RAG pipeline using FAISS embeddings, OCR cleanup, and semantic search for automated claim processing, reducing manual claims review time by ~65%. |
 | [Chat Scholar (RAG + NLP)](https://github.com/SreeDharaniReddy/Chat-Scholar) | Document Q&A system using embeddings, semantic search, and LLM reasoning. |
+| [EEG Classification Model](https://github.com/SreeDharaniReddy/EEG-Classification) | Deep learning models (CNN + LSTM) on EEG signals achieving 92% accuracy and 0.96 ROC-AUC. |
 | [Real-Time E-Commerce Data Pipeline](https://github.com/SreeDharaniReddy/Real-Time-Ecommerce-Pipeline) | Kafka-based streaming pipeline (1,200 events/min) with enrichment, deduplication, and monitoring dashboard. |
 | [Modern Data Warehouse Project](https://github.com/SreeDharaniReddy/Modern-Data-Warehouse ) | ETL pipelines, star schema modeling, and Power BI dashboards for analytics and KPI reporting. |
-| [EEG Classification Model](https://github.com/SreeDharaniReddy/EEG-Classification) | Deep learning models (CNN + LSTM) on EEG signals achieving 92% accuracy and 0.96 ROC-AUC. |
 | [Cricket Performance Analysis](https://github.com/SreeDharaniReddy/Cricket-Performance-Analyzer) | Web scraping, KPI engineering, and Power BI dashboards for player performance analytics. |
 
 ---

@@ -6,7 +6,7 @@ I'm a graduate student at Northeastern University, exploring everything from mac
 
 ## 💡 A Bit About Me
 
-- 🎓 Current Grad Student in Data Analytics Engineering at Northeastern University  
+- 🎓 Master’s in Data Analytics Engineering, Northeastern University (Boston, MA) 
 - 🤖 Experienced in building AI, ML, and LLM-powered workflows (RAG, deep learning, predictive models)  
 - ⚙️ Skilled in designing scalable ETL/ELT pipelines, real-time streaming systems, and cloud-based data platforms  
 - 📊 Strong background in statistical modeling, analytics, and data visualization (Power BI, Tableau)  

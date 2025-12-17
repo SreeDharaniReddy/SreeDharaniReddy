@@ -19,7 +19,7 @@ I’m a Data Analytics Engineering graduate from Northeastern University, explor
 
 | Project | Description |
 |--------|-------------|
-| [Insurance Claim Automation (LLM + RAG)](https://github.com/SreeDharaniReddy/ClaimTrackr) | LLM-driven RAG pipeline with FAISS, OCR automation, and explainable AI reducing manual claim review by 65%. |
+| [Insurance Claim Automation (LLM + RAG)](https://github.com/SreeDharaniReddy/ClaimTrackr) | Built an end-to-end LLM-driven RAG pipeline using FAISS embeddings, OCR cleanup, and semantic search for automated claim processing, reducing manual claims review time by ~65%. |
 | [Real-Time E-Commerce Data Pipeline](https://github.com/SreeDharaniReddy/Real-Time-Ecommerce-Pipeline) | Kafka-based streaming pipeline (1,200 events/min) with enrichment, deduplication, and monitoring dashboard. |
 | [Modern Data Warehouse Project](https://github.com/SreeDharaniReddy/Modern-Data-Warehouse ) | ETL pipelines, star schema modeling, and Power BI dashboards for analytics and KPI reporting. |
 | [EEG Classification Model](https://github.com/SreeDharaniReddy/EEG-Classification) | Deep learning models (CNN + LSTM) on EEG signals achieving 92% accuracy and 0.96 ROC-AUC. |

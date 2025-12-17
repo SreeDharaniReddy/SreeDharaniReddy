@@ -94,7 +94,7 @@ I’m a Data Analytics Engineering graduate from Northeastern University, explor
 ## 📬 Let’s Connect
 
 - 🌍 Based in Boston, MA  
-- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/dharani-sanapureddy/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dharani-sanapureddy/)
 - 💻 [GitHub](https://github.com/SreeDharaniReddy)
 - 📧 sanapureddy.sree@gmail.com
 
